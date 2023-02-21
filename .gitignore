@@ -51,6 +51,19 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+#ignore practice
+Exercises 1&2.ipynb			
+KMeans.ipynb				
+hierarchial_clustering.ipynb
+PCA_practice.ipynb			
+iris_elbow.ipynb
+shopping_KMeans.ipynb	
+shopping_data.csv
+iris.csv			
+shopping_data_cleaned.csv
+new_iris_data.csv
+
+
 # Translations
 *.mo
 *.pot
